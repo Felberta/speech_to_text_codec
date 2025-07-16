@@ -25,11 +25,6 @@ speech_to_text_codec/
 ├── speech_to_text.py
 ├── requirements.txt
 └── README.md
-
-yaml
-Copy
-Edit
-
 ---
 
 ## ▶️ How to Run
@@ -39,25 +34,19 @@ Edit
    ```bash
    pip install -r requirements.txt
 Run the script:
-
-bash
-Copy
-Edit
 python speech_to_text.py
+
 📄 Output Example
-vbnet
-Copy
-Edit
 🎧 Listening to the audio...
 🧠 Recognizing speech...
 
 📄 Transcription:
 Hello, this is Felberta Donna. This is my speech-to-text project for Codec Technologies...
+
 🛠 Tech Stack
+
 Python 3.x
-
 SpeechRecognition
-
 PyAudio
 
 ⚠️ Note
